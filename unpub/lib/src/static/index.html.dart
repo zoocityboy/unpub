@@ -15,7 +15,7 @@ const content = """<!DOCTYPE html>
         box-sizing: border-box;
       }
       body {
-        background-color: #fff;
+        background-color: #f2f2f2;
         line-height: 1.6;
         margin: 0;
         padding: 0;
